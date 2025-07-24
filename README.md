@@ -15,7 +15,7 @@ In this blog, you will learn how to use Amazon Bedrock and Amazon Nova Pro to cr
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 ## Blog
-For detailed information, refer the blog [Using Amazon Bedrock and Amazon Nova Pro for AI-Powered Incident Response](https://arunchandapillai.medium.com/)
+For detailed information, refer the blog [Using Amazon Bedrock and Amazon Nova Pro for AI-Powered Incident Response](https://aws.amazon.com/blogs/mt/using-amazon-bedrock-and-amazon-nova-for-ai-powered-incident-response/)
 
 
 
